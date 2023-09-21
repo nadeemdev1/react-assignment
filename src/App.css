@@ -1,0 +1,12 @@
+.modal-dialog{
+  max-width: 600px !important;
+}
+
+.form-check-input {
+  margin-top: 0.5rem !important;
+}
+
+.form-check {
+  font-size: 18px !important;
+  font-weight: 500;
+}
